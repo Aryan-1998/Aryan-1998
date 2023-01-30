@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
 
-- 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd` as Senior Data Engineer.
-- 🙇‍♂️ Languages : `English` `Hindi` `Bengali`
+- 👨‍⚖️ I am currently working at `Dassault Systemes` as Software Engineer.
+- 🙇‍♂️ Languages : `English` `Hindi` 
 
 <br />
 <br />
