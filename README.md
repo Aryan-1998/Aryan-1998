@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello World!, I am Aryan Lohar
+### Welcome to my github profile.
 
-<!--
-**Aryan-1998/Aryan-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+- 🌱 Learning to code and of course to live life to the fullest.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on any `C++/Java` or `Web Development` project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I am in search for a friend who is good at `sales` and `marketing` and can speak with confidence.
+
+- 💬 You can ask me about anything related to `Web Development`, `Katia` and `Java`.
+      
+      
+- 📫 If you want to talk to me feel free to email me at `lohararyan30@gmail.com`
+
+- 😄 Pronouns:  He, Him
+
+- ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
+
+- 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd` as Senior Data Engineer.
+- 🙇‍♂️ Languages : `English` `Hindi` `Bengali`
+
+<br />
+<br />
